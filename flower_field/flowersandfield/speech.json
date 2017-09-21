@@ -1,0 +1,42 @@
+{
+    "code": "000000",
+    "text": "成功",
+    "data": [
+        {
+            "title": "2017国际花艺讲习会",
+            "imageUrl": "http://static.htxq.net/UploadFiles/2017/09/08/20170908111125835419.jpg",
+            "type": "1",
+            "jumpId": "8c934cbd-ccac-4fbf-82e7-64de9c258e6e"
+        },
+        {
+            "title": "全民花艺师公益扶持计划",
+            "imageUrl": "http://static.htxq.net/UploadFiles/2017/08/23/20170823212754529255.jpg",
+            "type": "1",
+            "jumpId": "dfb2be07-74de-476c-9cc4-d2bd81553ded"
+        },
+        {
+            "title": "花艺助学金计划",
+            "imageUrl": "http://static.htxq.net/UploadFiles/2017/08/24/20170824202928108211.jpg",
+            "type": "1",
+            "jumpId": "c9fb7fa0-74aa-4422-85aa-dca85bac50cc"
+        },
+        {
+            "title": "研究社2017课程表",
+            "imageUrl": "http://static.htxq.net/UploadFiles/2017/08/01/20170801110255073576.png",
+            "type": "1",
+            "jumpId": "c1ae7429-e686-45af-818e-c57b6c336013"
+        },
+        {
+            "title": "购买学习卡",
+            "imageUrl": "http://static.htxq.net/UploadFiles/2017/08/05/20170805174323503540.png",
+            "type": "8",
+            "jumpId": ""
+        },
+        {
+            "title": "花田小憩研究社",
+            "imageUrl": "http://static.htxq.net/UploadFiles/2017/08/05/20170805175240835551.jpg",
+            "type": "1",
+            "jumpId": "40e47c75-fe2e-486c-a7b2-b0baed1e8d5e"
+        }
+    ]
+}

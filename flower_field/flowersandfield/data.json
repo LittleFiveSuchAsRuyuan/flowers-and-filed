@@ -1,0 +1,376 @@
+{
+    "code": "000000",
+    "text": "成功",
+    "data": {
+        "communityHomePageFirstPlateView": {
+            "name": "编辑推荐",
+            "articleForFirstPlateViews": [
+                {
+                    "id": 94,
+                    "enName": "Traditional Floral",
+                    "cnName": "意境美 | 中式插花",
+                    "imgUrl": "http://static.htxq.net/UploadFiles/2017/09/14/20170914140857786733.jpg",
+                    "type": 1,
+                    "detailUrl": "/shop/SysTopNewsAction/sysTopNewsDetail.do?id=94&type=1",
+                    "articleId": null
+                },
+                {
+                    "id": 96,
+                    "enName": "Daily Fine",
+                    "cnName": "小而美的精致好物",
+                    "imgUrl": "http://static.htxq.net/UploadFiles/2017/09/14/20170914152414685293.jpg",
+                    "type": 1,
+                    "detailUrl": "/shop/SysTopNewsAction/sysTopNewsDetail.do?id=96&type=1",
+                    "articleId": null
+                },
+                {
+                    "id": 92,
+                    "enName": "Virgo & Floral",
+                    "cnName": "处女座的花",
+                    "imgUrl": "http://static.htxq.net/UploadFiles/2017/09/11/20170911160337189728.jpg",
+                    "type": 1,
+                    "detailUrl": "/shop/SysTopNewsAction/sysTopNewsDetail.do?id=92&type=1",
+                    "articleId": null
+                },
+                {
+                    "id": 95,
+                    "enName": "Craftsmanship",
+                    "cnName": "匠人心",
+                    "imgUrl": "http://static.htxq.net/UploadFiles/2017/09/14/20170914145718575354.jpg",
+                    "type": 1,
+                    "detailUrl": "/shop/SysTopNewsAction/sysTopNewsDetail.do?id=95&type=1",
+                    "articleId": null
+                },
+                {
+                    "id": 93,
+                    "enName": "Lifestyle",
+                    "cnName": "把生活过成诗",
+                    "imgUrl": "http://static.htxq.net/UploadFiles/2017/09/11/20170911193809655688.jpg",
+                    "type": 1,
+                    "detailUrl": "/shop/SysTopNewsAction/sysTopNewsDetail.do?id=93&type=1",
+                    "articleId": null
+                },
+                {
+                    "id": 91,
+                    "enName": "Succulent plants",
+                    "cnName": "多肉植物手绘特辑",
+                    "imgUrl": "http://static.htxq.net/UploadFiles/2017/09/11/20170911153531884440.jpg",
+                    "type": 1,
+                    "detailUrl": "/shop/SysTopNewsAction/sysTopNewsDetail.do?id=91&type=1",
+                    "articleId": null
+                },
+                {
+                    "id": 84,
+                    "enName": "Plant Conservation",
+                    "cnName": "室内植物养护攻略",
+                    "imgUrl": "http://static.htxq.net/UploadFiles/2017/08/27/20170827174147251367.jpg",
+                    "type": 1,
+                    "detailUrl": "/shop/SysTopNewsAction/sysTopNewsDetail.do?id=84&type=1",
+                    "articleId": null
+                },
+                {
+                    "id": 86,
+                    "enName": "Poisonous plant",
+                    "cnName": "那些有毒的植物",
+                    "imgUrl": "http://static.htxq.net/UploadFiles/2017/08/27/20170827173558665813.jpg",
+                    "type": 1,
+                    "detailUrl": "/shop/SysTopNewsAction/sysTopNewsDetail.do?id=86&type=1",
+                    "articleId": null
+                },
+                {
+                    "id": 83,
+                    "enName": "Chinese Valentine's Day",
+                    "cnName": "七夕花礼手作特辑",
+                    "imgUrl": "http://static.htxq.net/UploadFiles/2017/08/23/20170823125119195289.jpg",
+                    "type": 1,
+                    "detailUrl": "/shop/SysTopNewsAction/sysTopNewsDetail.do?id=83&type=1",
+                    "articleId": null
+                },
+                {
+                    "id": 85,
+                    "enName": "Gardening Fun",
+                    "cnName": "一起感受园艺的乐趣     ",
+                    "imgUrl": "http://static.htxq.net/UploadFiles/2017/08/23/20170823125332964752.jpg",
+                    "type": 1,
+                    "detailUrl": "/shop/SysTopNewsAction/sysTopNewsDetail.do?id=85&type=1",
+                    "articleId": null
+                }
+            ]
+        },
+        "communityHomePageSecondPlateView": {
+            "name": "专题分类",
+            "categoryForSecondPlateViews": [
+                {
+                    "id": "8dba5958-7da0-4ce9-b1e9-5b92343519a7",
+                    "name": "花艺学堂",
+                    "img": "http://static.htxq.net/UploadFiles/2017/08/23/20170823131930235548.jpg"
+                },
+                {
+                    "id": "ef590bfe-47f2-11e5-a94d-f0def1b6f49e",
+                    "name": "园艺花园",
+                    "img": "http://static.htxq.net/UploadFiles/2017/08/23/20170823131022933271.jpg"
+                },
+                {
+                    "id": "a0cce463-a538-43e9-b487-6cc312d4e65e",
+                    "name": "家居搭配",
+                    "img": "http://static.htxq.net/UploadFiles/2017/08/23/20170823131158767543.jpg"
+                },
+                {
+                    "id": "62e4139d-ab3c-4268-8402-60928d1183c5",
+                    "name": "婚嫁",
+                    "img": "http://static.htxq.net/UploadFiles/2017/08/23/20170823131436141353.jpg"
+                },
+                {
+                    "id": "1890a741-b88b-4915-aa48-6fdfc9224b19",
+                    "name": "植物百科",
+                    "img": "http://static.htxq.net/UploadFiles/2017/08/23/20170823130710782436.jpg"
+                },
+                {
+                    "id": "7925e9a9-3d5c-4751-9492-dbaa31f228c9",
+                    "name": "「花」店地图",
+                    "img": "http://static.htxq.net/UploadFiles/2017/08/23/20170823130929608340.jpg"
+                },
+                {
+                    "id": "a9b9bb7f-3b50-4291-9706-05c69742a32f",
+                    "name": "匠人馆",
+                    "img": "http://static.htxq.net/UploadFiles/2017/03/11/20170311132359119585.jpg"
+                },
+                {
+                    "id": "a56aa5d0-aa6b-42b7-967d-59b77771e6eb",
+                    "name": "诗意生活",
+                    "img": "http://static.htxq.net/UploadFiles/2017/03/11/20170311130414449335.jpg"
+                }
+            ]
+        },
+        "communityHomePageThirdPlateView": {
+            "name": "每日壁纸",
+            "wallpaperForThirdPlateViews": [
+                {
+                    "imgUrl": "http://htxq.img-cn-beijing.aliyuncs.com/UploadFiles/2017/09/15/20170915100048453528_720_1280.jpg",
+                    "groupId": "dfe13fce-c410-440a-9ba1-e44b9ad832f2"
+                },
+                {
+                    "imgUrl": "http://htxq.img-cn-beijing.aliyuncs.com/UploadFiles/2017/09/13/20170913102249381153_720_1280.jpg",
+                    "groupId": "dfe13fce-c410-440a-9ba1-e44b9ad832f2"
+                },
+                {
+                    "imgUrl": "http://htxq.img-cn-beijing.aliyuncs.com/UploadFiles/2017/09/11/20170911192104836328_720_1280.jpg",
+                    "groupId": "dfe13fce-c410-440a-9ba1-e44b9ad832f2"
+                },
+                {
+                    "imgUrl": "http://htxq.img-cn-beijing.aliyuncs.com/UploadFiles/2017/08/27/20170827185245732990_720_1280.jpg",
+                    "groupId": "dfe13fce-c410-440a-9ba1-e44b9ad832f2"
+                },
+                {
+                    "imgUrl": "http://htxq.img-cn-beijing.aliyuncs.com/UploadFiles/2017/08/15/20170815081132736573_720_1280.jpg",
+                    "groupId": "3d57c973-c5cd-4c5f-9052-e9a5dc2f8ada"
+                },
+                {
+                    "imgUrl": "http://htxq.img-cn-beijing.aliyuncs.com/UploadFiles/2017/08/14/20170814163336136108_720_1280.jpg",
+                    "groupId": "3d57c973-c5cd-4c5f-9052-e9a5dc2f8ada"
+                },
+                {
+                    "imgUrl": "http://htxq.img-cn-beijing.aliyuncs.com/UploadFiles/2017/08/04/20170804134509518337_720_1280.jpg",
+                    "groupId": "3d57c973-c5cd-4c5f-9052-e9a5dc2f8ada"
+                },
+                {
+                    "imgUrl": "http://htxq.img-cn-beijing.aliyuncs.com/UploadFiles/2017/07/27/20170727161822106762_720_1280.jpg",
+                    "groupId": "3d57c973-c5cd-4c5f-9052-e9a5dc2f8ada"
+                },
+                {
+                    "imgUrl": "http://htxq.img-cn-beijing.aliyuncs.com/UploadFiles/2017/07/17/20170717183259312976_720_1280.jpg",
+                    "groupId": "ea9cb3cd-0026-4b88-b78d-96322c51e783"
+                },
+                {
+                    "imgUrl": "http://htxq.img-cn-beijing.aliyuncs.com/UploadFiles/2017/07/13/20170713173437889600_720_1280.jpg",
+                    "groupId": "ea9cb3cd-0026-4b88-b78d-96322c51e783"
+                }
+            ]
+        },
+        "communityHomePageWaterFallPlateView": {
+            "name": "今日推荐",
+            "articleForWaterFallPlateViews": [
+                {
+                    "id": "df9ce7b4-67b0-4d33-ad3a-4640672df030",
+                    "coverImg": "http://static.htxq.net/UploadFiles/2017/09/16/20170916113220780579.jpg",
+                    "name": "衍纸艺术里的大世界",
+                    "readCount": 8817,
+                    "cateName": "匠人馆",
+                    "detailUrl": "/servlet/SysArticleServlet?action=preview&artId=df9ce7b4-67b0-4d33-ad3a-4640672df030",
+                    "isVideo": false
+                },
+                {
+                    "id": "e286ca8d-f347-45f2-9c53-2e8276266100",
+                    "coverImg": "http://static.htxq.net/UploadFiles/2017/09/15/20170915140403412038.jpg",
+                    "name": "粉色公主梦",
+                    "readCount": 27849,
+                    "cateName": "花艺学堂",
+                    "detailUrl": "/servlet/SysArticleServlet?action=preview&artId=e286ca8d-f347-45f2-9c53-2e8276266100",
+                    "isVideo": false
+                },
+                {
+                    "id": "b479b702-06fc-4085-84df-6797100a624b",
+                    "coverImg": "http://static.htxq.net/UploadFiles/2017/09/15/20170915115836666115.jpg",
+                    "name": "梦幻马卡龙料理",
+                    "readCount": 19854,
+                    "cateName": "匠人馆",
+                    "detailUrl": "/servlet/SysArticleServlet?action=preview&artId=b479b702-06fc-4085-84df-6797100a624b",
+                    "isVideo": false
+                },
+                {
+                    "id": "12c52686-c1d8-49c3-9abb-a3a15849d1de",
+                    "coverImg": "http://static.htxq.net/UploadFiles/2017/09/12/20170912180700737339.jpg",
+                    "name": "10组家居创意DIY灵感",
+                    "readCount": 21953,
+                    "cateName": "家居搭配",
+                    "detailUrl": "/servlet/SysArticleServlet?action=preview&artId=12c52686-c1d8-49c3-9abb-a3a15849d1de",
+                    "isVideo": false
+                },
+                {
+                    "id": "2e8842d0-0034-4ce1-adee-962af9e678ce",
+                    "coverImg": "http://static.htxq.net/UploadFiles/2017/09/14/20170914113245434769.jpg",
+                    "name": "温暖明媚如花绽放",
+                    "readCount": 20524,
+                    "cateName": "花艺学堂",
+                    "detailUrl": "/servlet/SysArticleServlet?action=preview&artId=2e8842d0-0034-4ce1-adee-962af9e678ce",
+                    "isVideo": false
+                },
+                {
+                    "id": "1ced5f65-90ab-4c0e-813a-30b5b0265f7d",
+                    "coverImg": "http://static.htxq.net/UploadFiles/2017/09/14/20170914132543199694.jpg",
+                    "name": "Jan van Huysum的花作",
+                    "readCount": 24689,
+                    "cateName": "匠人馆",
+                    "detailUrl": "/servlet/SysArticleServlet?action=preview&artId=1ced5f65-90ab-4c0e-813a-30b5b0265f7d",
+                    "isVideo": false
+                },
+                {
+                    "id": "ad113bc3-7b5a-4b4c-8838-f755bf643548",
+                    "coverImg": "http://static.htxq.net/UploadFiles/2017/09/12/20170912132454072071.jpg",
+                    "name": "极光与烟花下的Harpa魅影",
+                    "readCount": 11195,
+                    "cateName": "「花」店地图",
+                    "detailUrl": "/servlet/SysArticleServlet?action=preview&artId=ad113bc3-7b5a-4b4c-8838-f755bf643548",
+                    "isVideo": false
+                },
+                {
+                    "id": "105113a3-15ed-4960-919f-b241062b6375",
+                    "coverImg": "http://static.htxq.net/UploadFiles/2017/09/13/20170913155049387146.jpg",
+                    "name": "白色圆舞曲 | 瓶花",
+                    "readCount": 34272,
+                    "cateName": "花艺学堂",
+                    "detailUrl": "/servlet/SysArticleServlet?action=preview&artId=105113a3-15ed-4960-919f-b241062b6375",
+                    "isVideo": false
+                },
+                {
+                    "id": "58d43940-72f5-433e-80e3-e9ef87c60e36",
+                    "coverImg": "http://static.htxq.net/UploadFiles/2017/09/13/20170913173838859208.jpg",
+                    "name": "北欧风网红绿植大盘点",
+                    "readCount": 29559,
+                    "cateName": "植物百科",
+                    "detailUrl": "/servlet/SysArticleServlet?action=preview&artId=58d43940-72f5-433e-80e3-e9ef87c60e36",
+                    "isVideo": false
+                },
+                {
+                    "id": "14ccc5b4-7e2f-45f8-8461-12c8e5a385ae",
+                    "coverImg": "http://static.htxq.net/UploadFiles/2017/09/13/20170913104442858794.jpg",
+                    "name": "仙人球这么养，10年都不死",
+                    "readCount": 23034,
+                    "cateName": "园艺花园",
+                    "detailUrl": "/servlet/SysArticleServlet?action=preview&artId=14ccc5b4-7e2f-45f8-8461-12c8e5a385ae",
+                    "isVideo": false
+                },
+                {
+                    "id": "80c2bf7d-7173-459c-adb2-985a73face70",
+                    "coverImg": "http://static.htxq.net/UploadFiles/2017/09/12/20170912193840277860.jpg",
+                    "name": "野花野草「野」春天",
+                    "readCount": 26013,
+                    "cateName": "花艺学堂",
+                    "detailUrl": "/servlet/SysArticleServlet?action=preview&artId=80c2bf7d-7173-459c-adb2-985a73face70",
+                    "isVideo": false
+                },
+                {
+                    "id": "d4550e82-89ff-419c-bf14-b285830f077e",
+                    "coverImg": "http://static.htxq.net/UploadFiles/2017/09/11/20170911172020632425.jpg",
+                    "name": "我的100颗多肉手绘－晚霞之舞",
+                    "readCount": 14725,
+                    "cateName": "诗意生活",
+                    "detailUrl": "/servlet/SysArticleServlet?action=preview&artId=d4550e82-89ff-419c-bf14-b285830f077e",
+                    "isVideo": false
+                },
+                {
+                    "id": "1700e2b7-b9c1-46e1-8f19-0124e11172e0",
+                    "coverImg": "http://static.htxq.net/UploadFiles/2017/09/12/20170912104351316800.jpg",
+                    "name": "Woodlucker工作室的精美纸艺作品",
+                    "readCount": 22748,
+                    "cateName": "匠人馆",
+                    "detailUrl": "/servlet/SysArticleServlet?action=preview&artId=1700e2b7-b9c1-46e1-8f19-0124e11172e0",
+                    "isVideo": false
+                },
+                {
+                    "id": "58f7b1b5-fa4b-4260-94bd-c1c38f9acf2c",
+                    "coverImg": "http://static.htxq.net/UploadFiles/2017/09/11/20170911110023651948.jpg",
+                    "name": "「秋日私语」 田园的暖阳",
+                    "readCount": 31758,
+                    "cateName": "花艺学堂",
+                    "detailUrl": "/servlet/SysArticleServlet?action=preview&artId=58f7b1b5-fa4b-4260-94bd-c1c38f9acf2c",
+                    "isVideo": false
+                },
+                {
+                    "id": "3c2f0fa9-0bd2-4a2c-80f4-6106779095ef",
+                    "coverImg": "http://static.htxq.net/UploadFiles/2017/09/08/20170908121924312185.jpg",
+                    "name": "阳台别空着，种点儿花草吧",
+                    "readCount": 27474,
+                    "cateName": "园艺花园",
+                    "detailUrl": "/servlet/SysArticleServlet?action=preview&artId=3c2f0fa9-0bd2-4a2c-80f4-6106779095ef",
+                    "isVideo": false
+                },
+                {
+                    "id": "2cd7fa30-27db-4f82-87af-52537619ec37",
+                    "coverImg": "http://static.htxq.net/UploadFiles/2017/09/08/20170908160110499391.jpg",
+                    "name": "挪威森林里的超现实摄影",
+                    "readCount": 35802,
+                    "cateName": "匠人馆",
+                    "detailUrl": "/servlet/SysArticleServlet?action=preview&artId=2cd7fa30-27db-4f82-87af-52537619ec37",
+                    "isVideo": false
+                },
+                {
+                    "id": "a56a3101-92b4-4fc5-a7f7-d09195185345",
+                    "coverImg": "http://static.htxq.net/UploadFiles/2017/09/08/20170908174909220269.jpg",
+                    "name": "捧在怀里的少女心",
+                    "readCount": 70666,
+                    "cateName": "花艺学堂",
+                    "detailUrl": "/servlet/SysArticleServlet?action=preview&artId=a56a3101-92b4-4fc5-a7f7-d09195185345",
+                    "isVideo": false
+                },
+                {
+                    "id": "af76bc00-870a-42b5-968e-3e995b7b1f6f",
+                    "coverImg": "http://static.htxq.net/UploadFiles/2017/09/07/20170907123308702467.jpg",
+                    "name": "隐匿在灯泡中的繁花",
+                    "readCount": 72420,
+                    "cateName": "匠人馆",
+                    "detailUrl": "/servlet/SysArticleServlet?action=preview&artId=af76bc00-870a-42b5-968e-3e995b7b1f6f",
+                    "isVideo": false
+                },
+                {
+                    "id": "0c586573-b190-446e-8637-1636efc4d5b8",
+                    "coverImg": "http://static.htxq.net/UploadFiles/2017/09/08/20170908100324395602.jpg",
+                    "name": "寄情山水好去处-荷兰羊角村",
+                    "readCount": 28676,
+                    "cateName": "「花」店地图",
+                    "detailUrl": "/servlet/SysArticleServlet?action=preview&artId=0c586573-b190-446e-8637-1636efc4d5b8",
+                    "isVideo": false
+                },
+                {
+                    "id": "3220339a-2044-4ab5-abb9-934be6b857fd",
+                    "coverImg": "http://static.htxq.net/UploadFiles/2017/09/07/20170907172358659918.jpg",
+                    "name": "秋天到了，何不做个花束送自己",
+                    "readCount": 54077,
+                    "cateName": "花艺学堂",
+                    "detailUrl": "/servlet/SysArticleServlet?action=preview&artId=3220339a-2044-4ab5-abb9-934be6b857fd",
+                    "isVideo": false
+                }
+            ]
+        }
+    }
+}

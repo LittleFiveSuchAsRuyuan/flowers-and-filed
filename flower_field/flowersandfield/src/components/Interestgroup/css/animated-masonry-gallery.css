@@ -1,0 +1,14 @@
+
+#gallery-content{
+	float: left;
+	width: 100%;
+}
+
+#gallery-content-center img {
+	width: 300px;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	margin-left: 10px;
+}
